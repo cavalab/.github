@@ -1,4 +1,4 @@
-The Cava laboratory is a research group run by run by William La Cava ([@lacava](https://github.com/lacava)). It is part of the [Computational Health Informatics Program](http://www.chip.org) at Boston Children's Hospital and Harvard Medical School.
+The Cava laboratory is a research group run by William La Cava ([@lacava](https://github.com/lacava)). It is part of the [Computational Health Informatics Program](http://www.chip.org) at Boston Children's Hospital and Harvard Medical School.
 
 
 
